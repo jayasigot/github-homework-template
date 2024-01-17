@@ -6,7 +6,7 @@ This homework is to be completed for your GitHub Afternoon class
 
 ASSIGNMENT DUE DATE | SUBMISSION METHOD | FILES TO SUBMIT | MARKS
 ------------------- | ----------------- | --------------- | -----
-Friday, January 2nd, 2023 | Push on Github Desktop | Entire Assignment | 0% of final mark
+Friday, February 2nd, 2023 | Push on Github Desktop | Entire Assignment | 0% of final mark
 
 ### Please perform the following tasks:
 
